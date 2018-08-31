@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Week 2 Heading</title>
+</head>
+<body>
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+  <ol>1. My first ordered list item.</ol>
+  <ol>2. My second ordered list item. </ol>
+
+  <ul>My first unordered list item.</ul>
+  <ul>My second unordered list item. </ul>
+
+<p>->This is a span <---> This is a separate span <-</p>
+
+</body>
+</html>
+
+
+
 
