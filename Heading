@@ -15,7 +15,7 @@
   <ul>My first unordered list item.</ul>
   <ul>My second unordered list item. </ul>
 
-<p>->This is a span <---> This is a separate span <-</p>
+<p style="color:red;">->This is a span <---> This is a separate span <-</p>
 
 </body>
 </html>
